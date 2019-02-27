@@ -1,0 +1,1 @@
+<a href="http://www.cxfmall.com/reset?id={{$id}}&token={{$token}}">密码重置</a>
